@@ -21,3 +21,4 @@
 |2024.09.09 Mon|[report](/2024/9/9/report.md)|
 |2024.09.10 Tue|[report](/2024/9/10/report.md)|
 |2024.09.11 Wed|[report](/2024/9/11/report.md)|
+|2024.09.12 Thu|[report](/2024/9/12/report.md)|
