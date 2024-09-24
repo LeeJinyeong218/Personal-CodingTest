@@ -26,3 +26,4 @@
 |2024.09.15 Sun|[report](/2024/9/15/report.md)|
 |2024.09.21 Sat|[report](/2024/9/21/report.md)|
 |2024.09.23 Mon|[report](/2024/9/23/report.md)|
+|2024.09.24 Tue|[report](/2024/9/24/report.md)|
