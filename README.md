@@ -16,7 +16,7 @@
 |Date|Log|
 |:---:|:---|
 |2024.09.02 Mon|[report](/2024/9/2/report.md)|
-|2024.09.03 Tue|[report](/2024/9/3/report.md)| ㅇ
+|2024.09.03 Tue|[report](/2024/9/3/report.md)|
 |2024.09.04 Wed|[report](/2024/9/4/report.md)|
 |2024.09.09 Mon|[report](/2024/9/9/report.md)|
 |2024.09.10 Tue|[report](/2024/9/10/report.md)|
@@ -28,3 +28,4 @@
 |2024.09.23 Mon|[report](/2024/9/23/report.md)|
 |2024.09.24 Tue|[report](/2024/9/24/report.md)|
 |2024.09.25 Wed|[report](/2024/9/25/report.md)|
+|2024.09.27 Fri|[report](/2024/9/27/report.md)|
