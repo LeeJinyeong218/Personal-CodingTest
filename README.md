@@ -33,3 +33,5 @@
 |2024.10.01 Tue|[report](/2024/10/1/report.md)|
 |2024.10.02 Wed|[report](/2024/10/2/report.md)|
 |2024.10.03 Thu|[report](/2024/10/3/report.md)|
+|2024.10.04 Fri|[report](/2024/10/4/report.md)|
+|2024.10.07 Mon|[report](/2024/10/7/report.md)|
